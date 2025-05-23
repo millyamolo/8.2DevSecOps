@@ -6,3 +6,4 @@ A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http
 ## Features
 ...
 (rest of your current local README content)
+"Auto-trigger test at Sat 05/24/2025TIME%" 
